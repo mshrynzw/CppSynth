@@ -1,0 +1,43 @@
+# Visual Studio のビルド出力
+Debug/
+Release/
+x64/
+Win32/
+
+# Visual Studio の一時ファイル
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# コンパイル済みファイル
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+
+# プリコンパイル済みヘッダー
+*.pch
+
+# ビルドログ
+*.log
+*.tlog
+
+# Visual Studio のプロジェクトファイル
+*.vcxproj.filters
+*.vcxproj.user
+
+# Windows のシステムファイル
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# その他の一時ファイル
+*.tmp
+*.temp
+*.bak
+*.swp 
